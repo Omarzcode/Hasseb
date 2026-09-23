@@ -1,0 +1,6 @@
+{
+  "name": "Digital Muhasabah",
+  "description": "A minimalist, private, local-first spiritual habit tracker and reflection companion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
