@@ -20,17 +20,17 @@ Unlike conventional habit trackers that promote toxic productivity or high-stres
 
 | Onboarding (Spiritual Tiers) | Daily Check-in & Tri-State |
 |:---:|:---:|
-| <img src="docs/screenshots/screenshot_onboarding.jpg" width="300" alt="Onboarding Stage Selection" /> | <img src="docs/screenshots/screenshot_checkin.jpg" width="300" alt="Daily Check-in Screen" /> |
+| <img src="docs/screenshots/screenshot_onboarding.png" width="300" alt="Onboarding Stage Selection" /> | <img src="docs/screenshots/screenshot_checkin.png" width="300" alt="Daily Check-in Screen" /> |
 | *Select initial stage (Fard, Sunnah, Adhkar)* | *Tri-state logging (On-Time, Tadaaruk, Missed)* |
 
 | Spiritual Insights & Milestones | Analytics & Radar Balance Wheel |
 |:---:|:---:|
-| <img src="docs/screenshots/screenshot_insights.jpg" width="300" alt="Spiritual Insights Screen" /> | <img src="docs/screenshots/screenshot_dashboard.jpg" width="300" alt="Analytics Dashboard" /> |
+| <img src="docs/screenshots/screenshot_insights.png" width="300" alt="Spiritual Insights Screen" /> | <img src="docs/screenshots/screenshot_dashboard.png" width="300" alt="Analytics Dashboard" /> |
 | *Non-judgmental recovery, streaks & wisdom* | *Radar balance wheel, weekly bars & 30-day heatmap* |
 
 | Settings & Habit Management |
 |:---:|
-| <img src="docs/screenshots/screenshot_settings.jpg" width="300" alt="Settings Screen" /> |
+| <img src="docs/screenshots/screenshot_settings.png" width="300" alt="Settings Screen" /> |
 | *Custom habits, adaptive reminders & local privacy* |
 
 ---
@@ -38,7 +38,7 @@ Unlike conventional habit trackers that promote toxic productivity or high-stres
 ## 📱 Core Features
 
 ### 1. Onboarding & Spiritual Tier Selection (`OnboardingScreen.kt`)
-<img align="right" width="220" src="docs/screenshots/screenshot_onboarding.jpg" alt="Onboarding Screen" />
+<img align="right" width="220" src="docs/screenshots/screenshot_onboarding.png" alt="Onboarding Screen" />
 
 - **Step-by-Step Spiritual Journey**: Introduces the user to the foundational concept of *Nafs* accountability.
 - **Stage 1 — Core Essentials (الأركان والفرائض)**: The 5 prescribed daily prayers (Fajr, Dhuhr, Asr, Maghrib, Isha).
@@ -48,7 +48,7 @@ Unlike conventional habit trackers that promote toxic productivity or high-stres
 <br clear="right"/>
 
 ### 2. Daily Check-in & Tri-State Logging (`CheckinScreen.kt`)
-<img align="right" width="220" src="docs/screenshots/screenshot_checkin.jpg" alt="Daily Check-in Screen" />
+<img align="right" width="220" src="docs/screenshots/screenshot_checkin.png" alt="Daily Check-in Screen" />
 
 - **Tri-State Status**:
   - `ON_TIME` (حاضر / أداء): Completed within its primary prescribed or planned time window.
@@ -60,7 +60,7 @@ Unlike conventional habit trackers that promote toxic productivity or high-stres
 <br clear="right"/>
 
 ### 3. Spiritual Insights Engine (`InsightsScreen.kt` & `InsightsEngine.kt`)
-<img align="right" width="220" src="docs/screenshots/screenshot_insights.jpg" alt="Spiritual Insights Screen" />
+<img align="right" width="220" src="docs/screenshots/screenshot_insights.png" alt="Spiritual Insights Screen" />
 
 - **Tadaaruk (Recovery) Recognition**: Praises catching up on missed prayers or duties with patience and determination.
 - **Burnout & Strain Detection**: Identifies sharp drops in activity and surfaces soothing reminders on moderate, sustained deeds (*Ahabbu al-a'mali ila Allahi adwamuha wa in qall*).
@@ -70,7 +70,7 @@ Unlike conventional habit trackers that promote toxic productivity or high-stres
 <br clear="right"/>
 
 ### 4. Spiritual Analytics Dashboard (`DashboardScreen.kt`)
-<img align="right" width="220" src="docs/screenshots/screenshot_dashboard.jpg" alt="Analytics Dashboard Screen" />
+<img align="right" width="220" src="docs/screenshots/screenshot_dashboard.png" alt="Analytics Dashboard Screen" />
 
 - **7-Day Consistency & Breakdown**: Stacked visual indicators depicting On-Time vs. Late / Tadaaruk habits.
 - **Category Radar Balance Wheel (`RadarBalanceWheel.kt`)**: Custom Jetpack Compose canvas drawing a 5-spoke polygon across:
@@ -85,7 +85,7 @@ Unlike conventional habit trackers that promote toxic productivity or high-stres
 <br clear="right"/>
 
 ### 5. Settings, Adaptive Reminders & Privacy (`SettingsScreen.kt`)
-<img align="right" width="220" src="docs/screenshots/screenshot_settings.jpg" alt="Settings Screen" />
+<img align="right" width="220" src="docs/screenshots/screenshot_settings.png" alt="Settings Screen" />
 
 - **Spiritual Stage Tuning**: Seamlessly promote or adjust active spiritual tiers at any point.
 - **Custom Habit Builder**: Add personalized habits (e.g., Tahajjud, Charity, Fasting Mondays/Thursdays).
